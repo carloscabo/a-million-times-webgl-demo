@@ -12,5 +12,7 @@ Fast WebGL test concept inspired by the **"A million Times"** kinetic installati
 - `TweenJS` <http://createjs.com/tweenjs>
 
 ## Disclaimer
+Yep, it seems 2D instead 3D, I'll try with something more 3Dish next time ;)
+
 This is only a proof of concept, expect fast-and-dirty code and problaly some bugs / glitches.  
 Enjoy ;)
