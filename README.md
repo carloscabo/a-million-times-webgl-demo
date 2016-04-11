@@ -14,5 +14,5 @@ Fast WebGL test concept inspired by the **"A million Times"** kinetic installati
 ## Disclaimer
 Yep, it seems 2D instead 3D, I'll try with something more 3Dish next time ;)
 
-This is only a proof of concept, expect fast-and-dirty code and problaly some bugs / glitches.  
+This is only a proof of concept, expect fast-and-dirty code and problably some bugs / glitches.  
 Enjoy ;)
