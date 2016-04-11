@@ -1,5 +1,6 @@
 # a-million-times-webgl-demo
-Fast WebGl test concept inspired by the "A million Times" kinetic installation by "Humans since 1982" <https://vimeo.com/60491636>
+Fast WebGL test concept inspired by the **"A million Times"** kinetic installation by _Humans since 1982_  
+<https://vimeo.com/60491636>
 
 ![a-million-times-webgl-demo](https://github.com/carloscabo/a-million-times-webgl-demo/raw/master/wip-screenshots/webgl-012.gif)
 
@@ -11,4 +12,5 @@ Fast WebGl test concept inspired by the "A million Times" kinetic installation b
 - `TweenJS` <http://createjs.com/tweenjs>
 
 ## Disclaimer
-This is only a proof of concept, expect fast-and-dirty code and problaly some bugs / glitches. Enjoy ;)
+This is only a proof of concept, expect fast-and-dirty code and problaly some bugs / glitches.  
+Enjoy ;)
